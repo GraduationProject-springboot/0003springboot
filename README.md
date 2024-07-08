@@ -1,7 +1,7 @@
 
 
 # 0003springboot网页时装购物系统
-[![](https://bb-embed.zjffun.com/embed?v=BV1jS4y1w7SW)](https://player.bilibili.com/player.html?isOutside=true&aid=112751464745317&bvid=BV1GohfeZEqp&cid=500001609163750&p=1)
+[![]([https://bb-embed.zjffun.com/embed?v=BV1jS4y1w7SW](https://i.sstatic.net/Vp2cE.png))](https://player.bilibili.com/player.html?isOutside=true&aid=112751464745317&bvid=BV1GohfeZEqp&cid=500001609163750&p=1)
 
 
 ```
