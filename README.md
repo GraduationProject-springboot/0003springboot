@@ -1,7 +1,7 @@
 
 
 # 0003springboot网页时装购物系统
-
+![视频](https://www.bilibili.com/video/BV1GohfeZEqp/?vd_source=2528471674e051da077fda90801321d9)
 https://www.bilibili.com/video/BV1GohfeZEqp/?vd_source=2528471674e051da077fda90801321d9
 
 ```
